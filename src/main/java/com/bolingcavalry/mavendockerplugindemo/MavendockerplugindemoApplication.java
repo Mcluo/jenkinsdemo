@@ -8,6 +8,6 @@ public class MavendockerplugindemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MavendockerplugindemoApplication.class, args);
-		print("hello world")
+		print("hello world！")
 	}
 }
